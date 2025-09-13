@@ -1,0 +1,12 @@
+[
+  { "name": "Parol", "dosage": "500 mg" },
+  { "name": "Aspirin", "dosage": "300 mg" },
+  { "name": "İbuprofen", "dosage": "400 mg" },
+  { "name": "Augmentin", "dosage": "625 mg" },
+  { "name": "Vermidon", "dosage": "500 mg" },
+  { "name": "Majezik", "dosage": "100 mg" },
+  { "name": "Arveles", "dosage": "25 mg" },
+  { "name": "Beloc", "dosage": "50 mg" },
+  { "name": "Nurofen", "dosage": "200 mg" },
+  { "name": "Insülin", "dosage": "100 IU/ml" }
+]
